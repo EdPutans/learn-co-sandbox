@@ -31,4 +31,3 @@ function find(array,criteriaFn){
 
 
 
-window.document
