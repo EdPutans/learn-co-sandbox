@@ -27,3 +27,8 @@ function find(array,criteriaFn){
    current=next.shift() }
   return null
 }
+
+
+
+
+window.document
